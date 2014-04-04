@@ -4,6 +4,7 @@ Example of countdown Android,very easy to implement.
 How to use?
 =============	
     	CountdownTimer	countdownTimer = new CountdownTimer(context, seconds, textView);
+    	countdownTimer.start();
 
 Easy a lot :)
     	
