@@ -1,8 +1,12 @@
 android-countdown-joda-time
 ===========================
+Example of countdown Android,very easy to implement.
+How to use?
+=============	
+    	CountdownTimer	countdownTimer = new CountdownTimer(context, seconds, textView);
 
-Example of countdown Android.
-
+Easy a lot :)
+    	
 ![Example][1]
 
 
